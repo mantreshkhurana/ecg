@@ -8,12 +8,17 @@ This is a simple ECG recorder using the [AD8232](https://www.analog.com/media/en
 
 - [ECG Recorder](#ecg-recorder)
   - [Table of Contents](#table-of-contents)
+  - [Demo](#demo)
   - [Circuit Diagram](#circuit-diagram)
   - [Hardware](#hardware)
   - [Connections](#connections)
   - [Usage](#usage)
   - [Details](#details)
   - [Author](#author)
+
+## Demo
+
+![Demo](./screenshots/screenshot-1.png)
 
 ## Circuit Diagram
 
@@ -34,13 +39,11 @@ This is a simple ECG recorder using the [AD8232](https://www.analog.com/media/en
 | LO- | Leads-Off Detect - | D8 |
 | LO+ | Leads-Off Detect + | D9 |
 
-AD8232 Pins :
+### AD8232 Pins
 
-RA - Input 1
-LA - Input 2
-RL - Input 3
-
-Please let me know if you have any other questions.
+- RA - Input 1
+- LA - Input 2
+- RL - Input 3
 
 ## Usage
 
@@ -57,6 +60,12 @@ Please let me know if you have any other questions.
 - Sawtooth P wave: Atrial flutter
 - Depression of ST-segment: it might indicate Ischemia
 - Elevation of ST-segment: it might indicate myocardial Infarction
+
+## Upcoming Features
+
+- [ ] Add a buzzer to alert the user when the heart rate is abnormal.
+- [ ] Add a display to show the heart rate.
+- [ ] Add a bluetooth module to send the data to a smartphone.
 
 ## Author
 
