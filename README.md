@@ -70,3 +70,4 @@ This is a simple ECG recorder using the [AD8232](https://www.analog.com/media/en
 ## Author
 
 - [Mantresh Khurana](https://github.com/mantreshkhurana)
+- [Manish Kumar](https://github.com/its-manishks)
