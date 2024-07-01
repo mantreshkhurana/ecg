@@ -67,6 +67,7 @@ This is a simple ECG recorder using the [AD8232](https://www.analog.com/media/en
 - [ ] Add a display to show the heart rate.
 - [ ] Add a bluetooth module to send the data to a smartphone.
 
-## Author
+## Authors
 
 - [Mantresh Khurana](https://github.com/mantreshkhurana)
+- [Manish Kumar](https://github.com/its-manishks)
