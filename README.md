@@ -14,7 +14,7 @@ This is a simple ECG recorder using the [AD8232](https://www.analog.com/media/en
   - [Connections](#connections)
   - [Usage](#usage)
   - [Details](#details)
-  - [Author](#author)
+  - [Authors](#authors)
 
 ## Demo
 
